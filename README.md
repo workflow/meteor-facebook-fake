@@ -25,7 +25,7 @@ Here's an example that will get intercepted and populated with a fake Picture.
 Extending the registering user with the URL to her profile pic during registration:
 
 
-```
+```js
 Meteor.users.requestAdditionalFacebookData = function(user) {
     // Public Profile Picture
     var facebook = user.services.facebook;
