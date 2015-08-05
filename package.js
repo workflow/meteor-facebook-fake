@@ -1,6 +1,6 @@
 Package.describe({
     name: 'dropz:facebook-fake',
-    version: '0.0.1',
+    version: '1.0.0',
     summary: 'A fake for use in testing. Fakes the oauth calls amongst other APIs.',
     git: 'https://github.com/workflow/meteor-facebook-fake',
     debugOnly: true

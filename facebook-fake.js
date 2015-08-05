@@ -21,7 +21,7 @@ Router.route('fake.graph.facebook.com/v2.2/oauth/access_token', function() {
     this.response.end(querystring.stringify(cannedResponse));
 }, {where: 'server'});
 
-Router.route('fake.graph.facebook.com/v2.2/me', function() {
+Router.route('fake.graph.facebook.com/v2.4/me', function() {
     var cannedResponse = {
         'id': 1234567,
         'name': 'Frodo Baggins',
