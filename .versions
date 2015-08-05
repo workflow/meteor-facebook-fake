@@ -8,9 +8,9 @@ callback-hook@1.0.3
 check@1.0.5
 ddp@1.1.0
 deps@1.0.7
-dropz:facebook-fake@0.0.1
+dropz:facebook-fake@1.0.0
 ejson@1.0.6
-facebook@1.2.0
+facebook@1.2.1
 geojson-utils@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
